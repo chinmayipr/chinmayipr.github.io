@@ -1,0 +1,4 @@
+# Put your images here:
+#   profile.jpg   -> your headshot (shown in the sidebar)
+#   person.jpg    -> default photo for group members
+# Any missing image will gracefully fall back to a gray circle.
