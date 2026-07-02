@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Page not found</title>
+  <script>
+    (function () {
+      var path = location.pathname;
+      if (path.indexOf("/chinmayiprabhu.github.io") === 0) {
+        var rest = path.replace(/^\/chinmayiprabhu\.github\.io\/?/, "");
+        location.replace("/" + rest + location.search + location.hash);
+        return;
+      }
+    })();
+  </script>
+</head>
+<body>
+  <p>Page not found. <a href="/">Go to homepage</a>.</p>
+</body>
+</html>
