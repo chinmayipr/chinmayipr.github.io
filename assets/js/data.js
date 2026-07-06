@@ -62,15 +62,15 @@ window.SITE = {
   ],
 
   /* ----- Publications (newest first) ------------------------------------ */
-  publications: [
-    {
+    publications: [
+{
       title:   "Formal Specification and Boundary Objects: A Two-Layered Approach to GDPR Specification",
       authors: "Chinmayi Prabhu Baramashetru",
       venue:   "ISoLA, 2026",
       tag:     "Conference",
       links:   {},
     },
-    {
+{
       title:   "GEV: Statically Correct and Programmable Knowledge Graph Updates",
       authors: "Eduard Kamburjan, Shqiponja Ahmetaj, Chinmayi Prabhu Baramashetru, Paolo Pareti",
       venue:   "IJCAI, 2026",
@@ -106,14 +106,14 @@ window.SITE = {
       links:   { "DOI": "https://doi.org/10.1007/978-3-031-57978-3_4" },
     },
     {
-      title:   "Integrating Data Privacy Compliance in Active Object Languages",
+      title:   "Integrating Data Privacy Compliance in Active Object Languages",
       authors: "Chinmayi Prabhu Baramashetru, Silvia Lizeth Tapia Tarifa, Olaf Owe",
       venue:   "Active Object Languages: Current Research Trends, 2024",
       tag:     "Book Chapter",
       links:   { "DOI": "https://doi.org/10.1007/978-3-031-51060-1_10" },
     },
     {
-      title:   "A Policy Language to Capture Compliance of Data Protection Requirements",
+      title:   "A Policy Language to Capture Compliance of Data Protection Requirements",
       authors: "Chinmayi Prabhu Baramashetru, Silvia Lizeth Tapia Tarifa, Olaf Owe, Nils Gruschka",
       venue:   "Integrated Formal Methods, 2022",
       tag:     "Book Chapter",
