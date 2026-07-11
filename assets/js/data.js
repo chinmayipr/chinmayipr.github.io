@@ -25,7 +25,7 @@ window.SITE = {
   intro: {
     heading: "Hello!",
     paragraphs: [
-      "I am a <strong>Postdoctoral Researcher</strong> in the <strong>programming and Systems group</strong> at <strong>University of Kent</strong> " +
+      "I am a <strong>Postdoctoral Researcher</strong> in the <strong>Programming and Systems group</strong> at <strong>University of Kent</strong> " +
         "working together with <a href='https://dorchard.github.io/' target='_blank' rel='noopener'>Dominic Orchard</a>.",
       " I did my PhD from University of Oslo under the supervision of <a href='https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html' target='_blank' rel='noopener'>Silvia Lizeth Tapia Tarifa</a> and <a href='https://www.mn.uio.no/ifi/english/people/emeriti/olaf/index.html' target='_blank' rel='noopener'>Olaf Owe</a>."+
       " My main research focuses on Programming language semantics, type theory, privacy and formal methods. I am also interested in formal verification approaches for climate models.",
@@ -37,7 +37,7 @@ window.SITE = {
 
     {
       date: "16 Jun 2026",
-      text: "Gave an Invited Talk at  <a href='https://durham-university--dartworkshop.replit.app/' target='_blank' rel='noopener'>DART Workshop 2026</a> in Durham, UK. Find Slides here <a href='assets/slides/DARTworkshop.pdf' target='_blank' rel='noopener'>here</a>.",
+      text: "Gave an Invited Talk at  <a href='https://durham-university--dartworkshop.replit.app/' target='_blank' rel='noopener'>DART Workshop 2026</a> in Durham, UK. Find Slides <a href='assets/slides/DARTworkshop.pdf' target='_blank' rel='noopener'>here</a>.",
     },
     {
       date: "15 June 2026",
