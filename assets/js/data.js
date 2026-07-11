@@ -16,7 +16,7 @@ window.SITE = {
       { id: "scholar", label: "Google Scholar", url: "https://scholar.google.com/citations?user=Uy018TAAAAAJ" },
       { id: "orcid", label: "ORCID", url: "https://orcid.org/0000-0001-5344-0032" },
       { id: "dblp", label: "DBLP", url: "https://dblp.org/pid/321/5982.html" },
-      { id: "github", label: "GitHub", url: "https://github.com/ChinmayiBp" },
+      { id: "github", label: "GitHub", url: "https://github.com/chinmayipr" },
       { id: "linkedin", label: "LinkedIn", url: "https://www.linkedin.com/in/chinmayi-bp/" },
     ],
   },
