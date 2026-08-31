@@ -62,7 +62,7 @@ window.SITE = {
   ],
 
   /* ----- Publications (newest first) ------------------------------------ */
-                  publications: [
+                    publications: [
 {
       title:   "Formal Specification and Boundary Objects: A Two-Layered Approach to GDPR Specification",
       authors: "Chinmayi Prabhu Baramashetru",
