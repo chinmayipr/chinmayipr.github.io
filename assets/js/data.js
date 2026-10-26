@@ -62,20 +62,20 @@ window.SITE = {
   ],
 
   /* ----- Publications (newest first) ------------------------------------ */
-                                  publications: [
-{
-      title:   "Formal Specification and Boundary Objects: A Two-Layered Approach to GDPR Specification",
-      authors: "Chinmayi Prabhu Baramashetru",
-      venue:   "ISoLA, 2026",
-      tag:     "Conference",
-      links:   {},
-    },
+                                    publications: [
 {
       title:   "GEV: Statically Correct and Programmable Knowledge Graph Updates",
       authors: "Eduard Kamburjan, Shqiponja Ahmetaj, Chinmayi Prabhu Baramashetru, Paolo Pareti",
       venue:   "IJCAI, 2026",
       tag:     "Conference",
       links:   { "Preprint": "assets/publications/ijcaipaper.pdf" },
+    },
+    {
+      title:   "Formal Specification and Boundary Objects: A Two-Layered Approach to GDPR Specification",
+      authors: "Chinmayi Prabhu Baramashetru, Elda Paja, Eduard Kamburjan",
+      venue:   "Leveraging Applications of Formal Methods, Verification and Validation. Bridging Gaps between Software and System Contracts, 2027",
+      tag:     "Book Chapter",
+      links:   { "DOI": "https://doi.org/10.1007/978-3-032-40118-2_3" },
     },
     {
       title:   "Towards Modelling and Verification of Coupler Behaviour in Climate Models",
