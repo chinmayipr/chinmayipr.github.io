@@ -62,7 +62,7 @@ window.SITE = {
   ],
 
   /* ----- Publications (newest first) ------------------------------------ */
-                                    publications: [
+                                      publications: [
 {
       title:   "GEV: Statically Correct and Programmable Knowledge Graph Updates",
       authors: "Eduard Kamburjan, Shqiponja Ahmetaj, Chinmayi Prabhu Baramashetru, Paolo Pareti",
